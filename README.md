@@ -1,1 +1,58 @@
-# FUTURE_DS_01
+# FUTURE_DS_01 — Stage en Science des Données & Analyse
+
+## 👤 Informations du Stagiaire
+
+| Champ | Détails |
+|---|---|
+| **Nom complet** | MOUMOUNI ABDOUL MALIK KONDE OUGADJA |
+| **ID Stagiaire** | FIT/MAY26/DS18364 |
+| **Programme** | Science des Données & Analyse |
+| **Organisation** | Future Interns |
+| **Date de début** | 20 Mai 2026 |
+| **Date de fin** | 20 Juin 2026 |
+
+---
+
+## 📌 À propos de ce dépôt
+
+Ce dépôt contient l'ensemble des travaux réalisés dans le cadre du stage en **Science des Données et Analyse** chez **Future Interns**.
+
+Il comprend :
+- 📊 Les projets d'analyse de données
+- 🧹 Le nettoyage et la préparation des données
+- 📈 Les visualisations et tableaux de bord
+- 📝 Les rapports et livrables du programme
+
+---
+
+## 🗂️ Structure du dépôt
+
+```
+FUTURE_DS_01/
+├── README.md
+├── Task_01/
+├── Task_02/
+├── Task_03/
+└── Resources/
+```
+
+---
+
+## 🛠️ Outils & Technologies
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- SQL
+- Power BI / Tableau
+
+---
+
+## 📬 Contact & Liens
+
+- 🔗 [Future Interns LinkedIn](https://www.linkedin.com/company/future-interns/)
+- 💬 [Communauté Telegram](https://t.me/+SG6y8VRVN_sxNzQ1)
+- 🌐 [Site officiel](https://futureinterns.com)
+
+---
+
+> *Ce stage est réalisé dans le cadre du programme Future Interns — #futureinterns*
