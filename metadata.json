@@ -1,0 +1,6 @@
+{
+  "name": "NovaRetail Global Corporation Dashboard",
+  "description": "International Business Intelligence and Data Analytics Dashboard for NovaRetail Global Corporation (10 Years, 100k Transactions, Sales Performance, Customer Insights, and Gemini AI Forecasting)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
