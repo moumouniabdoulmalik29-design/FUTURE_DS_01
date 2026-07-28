@@ -5,11 +5,11 @@
 | Champ | Détails |
 |---|---|
 | **Nom complet** | MOUMOUNI ABDOUL MALIK KONDE OUGADJA |
-| **ID Stagiaire** | FIT/MAY26/DS18364 |
+| **ID Stagiaire** | FIT/JUN26/DS21057|
 | **Programme** | Science des Données & Analyse |
 | **Organisation** | Future Interns |
-| **Date de début** | 20 Mai 2026 |
-| **Date de fin** | 20 Juin 2026 |
+| **Date de début** | 28 Juin 2026 |
+| **Date de fin** | 28 Juillet 2026 |
 
 ---
 
@@ -30,9 +30,7 @@ Il comprend :
 ```
 FUTURE_DS_01/
 ├── README.md
-├── Task_01/
 ├── Task_02/
-├── Task_03/
 ├── Resources/
 └── novaretail-global-corporation-dashboard/   ← Tableau de bord interactif (React + TypeScript + Vite)
 ```
