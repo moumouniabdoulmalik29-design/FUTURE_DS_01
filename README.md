@@ -1,20 +1,61 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# FUTURE_DS_01 — Stage en Science des Données & Analyse
 
-# Run and deploy your AI Studio app
+## 👤 Informations du Stagiaire
 
-This contains everything you need to run your app locally.
+| Champ | Détails |
+|---|---|
+| **Nom complet** | MOUMOUNI ABDOUL MALIK KONDE OUGADJA |
+| **ID Stagiaire** | FIT/MAY26/DS18364 |
+| **Programme** | Science des Données & Analyse |
+| **Organisation** | Future Interns |
+| **Date de début** | 20 Mai 2026 |
+| **Date de fin** | 20 Juin 2026 |
 
-View your app in AI Studio: https://ai.studio/apps/86dff48b-1632-4f6c-96e3-17d20da90e27
+---
 
-## Run Locally
+## 📌 À propos de ce dépôt
 
-**Prerequisites:**  Node.js
+Ce dépôt contient l'ensemble des travaux réalisés dans le cadre du stage en **Science des Données et Analyse** chez **Future Interns**.
 
+Il comprend :
+- 📊 Les projets d'analyse de données
+- 🧹 Le nettoyage et la préparation des données
+- 📈 Les visualisations et tableaux de bord (ex: **Novaretail Global Corporation Dashboard**)
+- 📝 Les rapports et livrables du programme
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🗂️ Structure du dépôt
+
+```
+FUTURE_DS_01/
+├── README.md
+├── Task_01/
+├── Task_02/
+├── Task_03/
+├── Resources/
+└── novaretail-global-corporation-dashboard/   ← Tableau de bord interactif (React + TypeScript + Vite)
+```
+
+---
+
+## 🛠️ Outils & Technologies
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- SQL
+- Power BI / Tableau
+- React, TypeScript, Vite (pour le dashboard interactif)
+
+---
+
+## 📬 Contact & Liens
+
+- 🔗 [Future Interns LinkedIn](https://www.linkedin.com/company/future-interns/)
+- 💬 [Communauté Telegram](https://t.me/+SG6y8VRVN_sxNzQ1)
+- 🌐 [Site officiel](https://futureinterns.com)
+
+---
+
+> *Ce stage est réalisé dans le cadre du programme Future Interns — #futureinterns*
+
