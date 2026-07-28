@@ -30,7 +30,7 @@ Il comprend :
 ```
 FUTURE_DS_01/
 ├── README.md
-├── Task_02/
+├── Task_01/
 ├── Resources/
 └── novaretail-global-corporation-dashboard/   ← Tableau de bord interactif (React + TypeScript + Vite)
 ```
